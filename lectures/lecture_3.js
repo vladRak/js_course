@@ -1,4 +1,4 @@
-var array = [
+	var array = [
 	{
 		name: 'Dmytro',
 	  mark: 3
